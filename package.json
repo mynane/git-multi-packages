@@ -1,0 +1,22 @@
+{
+  "version": "0.0.5",
+  "name": "git-multi-packages",
+  "main": "index.js",
+  "bin": {
+    "gm": "./bin/gm.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^7.2.0",
+    "fs-extra": "^9.1.0",
+    "inquirer": "^8.0.0",
+    "uuid": "^8.3.2"
+  },
+  "deprecated": false,
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
