@@ -1,7 +1,9 @@
 {
-  "version": "0.0.5",
+  "version": "0.0.6",
   "name": "git-multi-packages",
   "main": "index.js",
+  "homepage": "https://github.com/mynane/git-multi-packages/blob/master/README.md",
+  "repository": "https://github.com/mynane/git-multi-packages",
   "bin": {
     "gm": "./bin/gm.js"
   },
